@@ -476,7 +476,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -535,9 +535,13 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/sbn-logo-white-transparent-128x74.png",
               "width": 128,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
