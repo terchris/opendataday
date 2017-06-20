@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 25,
+    "uniqCompNum": 26,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -587,7 +587,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1465.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -636,7 +636,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Det begynte med at to av oss skulle sette av en dag i Forskningsparken til å gå gjennom CKAN og teknologiene rundt.</p><p>Så fant vi ut at det kan være interessant at flere deler av sin kunnskap. Målet er å få samlet flere som har kunnskap rundt åpne data og publisering i <a href=\"https://ckan.org/\" target=\"_blank\">CKAN.org</a></p><p><br></p><p>Dette en ad-hock setting der vi ser på teknologi sammen. Ingen powerpoint setting, mer en setting der vi bretter opp ermene og ser på ting i praksis og bruker whiteboard. Jeg har listet opp noen tema under. Dette er ønskelisten og får vi til alle tema er vi heldige.&nbsp;</p><p><br></p><p>Hilsen terje@smartebyernorge.no / +47 90056958</p>"
+          "text": "<p>Det begynte med at to av oss skulle sette av en dag i Forskningsparken til å gå gjennom CKAN og teknologiene rundt.</p><p>Så fant vi ut at det kan være interessant at flere deler av sin kunnskap. Målet er å få samlet flere som har kunnskap rundt åpne data og publisering i <a href=\"https://ckan.org/\" target=\"_blank\">CKAN.org</a></p><p><br></p><p>Dette en ad-hock setting der vi ser på teknologi sammen. Ingen powerpoint setting, mer en setting der vi bretter opp ermene og ser på ting i praksis og bruker whiteboard. Målet er ikke å få flest mulig til å komme. Men er det noen du vet bør komme kan du tipse dem.</p><p><br></p><p>Jeg har listet opp noen tema under. Dette er ønskelisten og får vi til alle tema er vi heldige.&nbsp;</p><p><br></p><p>Hilsen terje@smartebyernorge.no / +47 90056958</p>"
         },
         {
           "_tags": [
@@ -667,6 +667,26 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://doodle.com/poll/svm5rmmvyzby4n2b\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Klikk for å si når det passer for deg</a>",
           "text": "Det er kort tid og jeg har laget en droodle for at vi skal kunne sette inn når det passer for den enkelte.  Vi satser på at vi får til videokonferanse for de som ikke har anledning til å møte opp fysisk.<div>Foreløpige tider er: onsdag formiddag, torsdag formiddag eller på fredag.&nbsp;</div>",
           "title": "Når passer det for deg"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Aktuelle tema",
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_styles": {
@@ -720,7 +740,7 @@
           },
           "title1": "Datagraft",
           "subtitle1": "Noen data må pyntes først",
-          "caption1": "SINTEF har utviklet <a href=\"https://datagraft.net/\" target=\"_blank\">Datagraft</a>. Ert verktøy for konvertering av data. &nbsp;SINTEF demonstrerer.<br>Vi ser på hvordan data fra statistikkbanken Oslo Komune er konvertert og publisert på <a href=\"https://data.smartbydata.no/organization/oslo\" target=\"_blank\">smartbydata</a>&nbsp;i forbindelse med <a href=\"http://swoslo.no\" target=\"_blank\">SmartByWeekend</a>",
+          "caption1": "SINTEF har utviklet <a href=\"https://datagraft.net/\" target=\"_blank\">Datagraft</a>. Et verktøy for konvertering av data. &nbsp;SINTEF demonstrerer.<br>Vi ser på hvordan data fra <a href=\"http://statistikkbanken.oslo.kommune.no\" target=\"_blank\">statistikkbanken</a>&nbsp;i Oslo Komune er konvertert og publisert på <a href=\"https://data.smartbydata.no/organization/oslo\" target=\"_blank\">smartbydata</a>&nbsp;i forbindelse med <a href=\"http://swoslo.no\" target=\"_blank\">SmartByWeekend</a>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -801,21 +821,6 @@
           "subtitle6": "Hvordan senke terskelen for APP utviklig",
           "caption6": "<a href=\"https://github.com/forsen\" target=\"_blank\">Erik Haider Forsén</a> sin Master oppgave var å lage komponenter og <a href=\"https://github.com/forsen/fusecitapplabdemo\" target=\"_blank\">demo</a> som gjør det enkelt å hente og vise data i CKAN<br><br>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-j",
-          "_params": {
-            "googleMap": {
-              "address": "Gaustadalléen 21, 0349 Oslo",
-              "placeId": "ChIJ3SSHnuhtQUYRP0MUZwEl2iM",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          }
         },
         {
           "_tags": [

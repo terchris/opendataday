@@ -450,6 +450,10 @@ h6,
 #header3-k .mbr-section-subtitle {
   text-align: center;
 }
+#header3-p .mbr-section-title,
+#header3-p .mbr-section-subtitle {
+  text-align: center;
+}
 #features4-m .card-subtitle {
   color: #bcbcbc;
 }
