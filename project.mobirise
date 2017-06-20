@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 16,
+    "uniqCompNum": 24,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -321,18 +321,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "content1-5",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Dette er dagskurs beregnet på de som har ansvar for teknisk drift, &nbsp;vedlikehold og utvikling.&nbsp;</p>",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "text": "<p>Dette er dagskurs beregnet på de som har ansvar for teknisk drift, &nbsp;vedlikehold og utvikling.&nbsp;</p>"
         },
         {
           "_styles": {
@@ -374,13 +374,14 @@
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "phone",
+              "linkInNewWindow": false,
+              "name": "upload",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "family": "et-line"
+              "color": "black"
             }
           },
           "title1": "CKAN i produksjon",
@@ -389,13 +390,14 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "edit",
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "family": "et-line"
+              "color": "black"
             }
           },
           "title2": "Harvesters",
@@ -404,13 +406,14 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
+              "linkInNewWindow": false,
+              "name": "database",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "family": "et-line"
+              "color": "black"
             }
           },
           "title3": "Konvertering av data",
@@ -419,13 +422,14 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
+              "linkInNewWindow": false,
+              "name": "website-theme",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "family": "et-line"
+              "color": "black"
             }
           },
           "title4": "Lage eget design på CKAN",
@@ -434,13 +438,14 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
+              "linkInNewWindow": false,
+              "name": "lock",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "family": "et-line"
+              "color": "black"
             }
           },
           "title5": "Private data på CKAN",
@@ -526,6 +531,268 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-e",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/sbn-logo-white-transparent-128x74.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>About</strong><br>\nOpen data day er et arrangement fra Smarte Byer Norge<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: terje@smartebyernorge.no<br>\nPhone: +47 90056958<br>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"http://www.smartebyernorge.no\">Smarte Byer Norge</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"http://open.smartbydata.no\">Smartbydata portalen</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://www.facebook.com/groups/SmarteByerNorge\">Smarte byer nettverket på Facebook</a><a href=\"https://www.facebook.com/groups/SmarteByerNorge\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+        }
+      ]
+    },
+    "teknosommer.html": {
+      "settings": {
+        "title": "Teknosommer med CKAN og open data",
+        "meta_descr": "Hands on der vi setter oss ned og lærer av hverandres erfaringer rundt CKAN, open data, datagraft "
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-i",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "TEKNOSOMMER",
+          "text": "<p>Hands-on uformell workshop der vi deler kunnskap</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "På Forkningsparken siste uken i juni&nbsp;",
+          "meta": "By Terje Christensen July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Det begynte med at to av oss skulle sette av en dag i Forskningsparken til å gå gjennom CKAN og teknologiene rundt.</p><p>Så fant vi ut at det kan være interressant at flere deler av sin kunnskap. Målet er å få samlet flere som har kunnskap rundt åpne data og publisering i <a href=\"https://ckan.org/\" target=\"_blank\">CKAN.org</a></p><p><br></p><p>Dette en ad-hock setting der vi ser på teknologi sammen. Ingen powerpoint setting, mer en setting der vi bretter opp ermene og ser på ting i praksis og bruker whiteboard. Jeg har listet opp noen tema under. Dette er ønskelisten og får vi til alle tema er vi heldige.&nbsp;</p><p><br></p><p>Det er kort tid og jeg har laget en droodle for at vi skal kunne sette inn når det passer for den enkelte.&nbsp;</p><p>Foreløpige tider er: onsdag formiddag, torsdag formiddag eller på fredag</p><p><br></p><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#f2f2f2",
+              "border-color": "#f2f2f2"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-m",
+          "_params": {
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "database",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title1": "Datagraft",
+          "subtitle1": "Noen data må pyntes først",
+          "caption1": "SINTEF har utviklet <a href=\"https://datagraft.net/\" target=\"_blank\">Datagraft</a>. Ert verktøy for konvertering av data. &nbsp;SINTEF demonstrerer.<br>Vi ser på hvordan data fra statistikkbanken Oslo Komune er konvertert og publisert på <a href=\"https://data.smartbydata.no/organization/oslo\" target=\"_blank\">smartbydata</a>&nbsp;i forbindelse med <a href=\"http://swoslo.no\" target=\"_blank\">SmartByWeekend</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title2": "Enkel CKAN publisering",
+          "subtitle2": "Enkel publisering i smartbydata",
+          "caption2": "Publisering av statiske datasett i smartbydata. Urbalurba demonstrerer på <a href=\"https://data.smartbydata.no/organization/oslo\" target=\"_blank\">smartbydata</a>.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "website-theme",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title3": "Lage eget design på CKAN",
+          "subtitle3": "Template system gjør at designet kan endres",
+          "caption3": "Urbalurba er i ferd med å lage eget design på CKAN. Inspirert av <a href=\"https://data.gov.sg\" target=\"_blank\">Singapore</a>&nbsp;, <a href=\"https://data.world\" target=\"_blank\">data.world</a>&nbsp;og <a href=\"https://www.dataplatform.nl/data?groups[0]=onderwijs-en-wetenschap\" target=\"_blank\">dataplatform</a>.&nbsp;Viser og forklarer hvordan endre templates.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title4": "Harvesters",
+          "subtitle4": "Hvordan koble andre datakilder til ckan",
+          "caption4": "Som en del av <a href=\"https://www.sintef.no/en/open-transport-data/\" target=\"_blank\">OpenTransportData</a> prosjektet har SINTEF har laget <a href=\"https://github.com/OpenTransportDataProject\" target=\"_blank\">harvester</a> som henter data fra <a href=\"https://data.norge.no/\" target=\"_blank\">data.norge.no</a>&nbsp;SINTEF forklarer hvordan det fungerer og demonstrerer.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "upload",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title5": "CKAN i skyen",
+          "subtitle5": "Hvordan hoste CKAN",
+          "caption5": "Vi deler informasjon og erfaringer med hosting. Er det noen som bruker Docker?",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "mobile2",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title6": "APP utvikling mot CKAN",
+          "subtitle6": "Hvordan senke terskelen for APP utviklig",
+          "caption6": "<a href=\"https://github.com/forsen\" target=\"_blank\">Erik Haider Forsén</a> sin Master oppgave var å lage komponenter og <a href=\"https://github.com/forsen/fusecitapplabdemo\" target=\"_blank\">demo</a> som gjør det enkelt å hente og vise data i CKAN<br><br>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-j",
+          "_params": {
+            "googleMap": {
+              "address": "Gaustadalléen 21, 0349 Oslo",
+              "placeId": "ChIJ3SSHnuhtQUYRP0MUZwEl2iM",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-g",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,

@@ -442,3 +442,18 @@ h6,
 #form1-d .form-control-label {
   color: #232323;
 }
+#msg-box8-i .mbr-section-title,
+#msg-box8-i p {
+  color: #fff;
+}
+#header3-k .mbr-section-title,
+#header3-k .mbr-section-subtitle {
+  text-align: center;
+}
+#features4-m .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-m .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
