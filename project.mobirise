@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "opendataday",
-    "currentPage": "teknosommer.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -32,8 +32,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Open Data Day - Hvordan komme i gang med åpne data",
+        "meta_descr": "En praktisk fagdag med åpne data. Målgruppen er deg som vil vite mer om hvordan din by eller bedrift kan komme igang med publisering av åpne data.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -70,7 +70,7 @@
             "showButton": false
           },
           "title": "OPEN DATA DAY",
-          "text": "<p>Forskningsparken, Oslo 23 August 2017</p>",
+          "text": "<p>Forskningsparken, Oslo 23 august 2017</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -90,7 +90,7 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "Hvordan komme igang med åpne data",
+          "title": "Hvordan komme i gang med åpne data",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -164,9 +164,9 @@
               "family": "et-line"
             }
           },
-          "title2": "Hvorfor Open data",
+          "title2": "Hvorfor åpne data",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Hva vil vi oppnå med åpne data?<br>Hvem er \"kunden\" / \"brukeren\" av åpne data? Hvordan publisere åpne data slik at de blir brukt.&nbsp;<br>Hackathon &amp; SmartByWeekend erfaringer.<br>&nbsp;",
+          "caption2": "Hva vil vi oppnå med åpne data?<br>Hvem er \"kunden\"/\"brukeren\" av åpne data? Hvordan publisere åpne data slik at de blir brukt.&nbsp;<br>Hackathon &amp; SmartByWeekend erfaringer.<br>&nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
