@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "opendataday",
-    "currentPage": "index.html",
+    "currentPage": "teknosommer.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 26,
+    "uniqCompNum": 29,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -142,12 +142,13 @@
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "desktop",
+              "linkInNewWindow": false,
+              "name": "presentation",
+              "family": "et-line",
+              "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "size": 0
             }
           },
           "title1": "Open data status",
@@ -184,12 +185,13 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
+              "linkInNewWindow": false,
+              "name": "tools-2",
+              "family": "et-line",
+              "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "size": 0
             }
           },
           "title4": "Installere CKAN",
@@ -198,12 +200,13 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
+              "linkInNewWindow": false,
+              "name": "linegraph",
+              "family": "et-line",
+              "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "size": 0
             }
           },
           "title5": "Visualisering av data",
@@ -636,7 +639,179 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Det begynte med at to av oss skulle sette av en dag i Forskningsparken til å gå gjennom CKAN og teknologiene rundt.</p><p>Så fant vi ut at det kan være interessant at flere deler av sin kunnskap. Målet er å få samlet flere som har kunnskap rundt åpne data og publisering i <a href=\"https://ckan.org/\" target=\"_blank\">CKAN.org</a></p><p><br></p><p>Dette en ad-hock setting der vi ser på teknologi sammen. Ingen powerpoint setting, mer en setting der vi bretter opp ermene og ser på ting i praksis og bruker whiteboard. Målet er ikke å få flest mulig til å komme. Men er det noen du vet bør komme kan du tipse dem.</p><p><br></p><p>Jeg har listet opp noen tema under. Dette er ønskelisten og får vi til alle tema er vi heldige.&nbsp;</p><p><br></p><p>Hilsen terje@smartebyernorge.no / +47 90056958</p>"
+          "text": "<p>Det begynte med at to av oss skulle sette av en dag i Forskningsparken til å gå gjennom CKAN og teknologiene rundt.</p><p>Så fant vi ut at det kan være interessant at flere deler av sin kunnskap. Målet er å få samlet flere som har kunnskap rundt åpne data og publisering i <a href=\"https://ckan.org/\" target=\"_blank\">CKAN.org</a></p><p><br></p><p>Dette en ad-hock setting der vi ser på teknologi sammen. Ingen powerpoint setting, mer en setting der vi bretter opp ermene og ser på ting i praksis og bruker whiteboard. Målet er ikke å få flest mulig til å komme. Men er det noen du vet bør komme kan du tipse dem.</p><p><br></p><p><br></p><p><br></p><p>Hilsen terje@smartebyernorge.no / +47 90056958</p>"
+        },
+        {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            }
+          },
+          "_name": "features7",
+          "_anchor": "features7-q",
+          "_params": {
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "database",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title1": "Datagraft",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "1.Brief DataGraft presentation ~ 10 mins<br>2.      Visual data profiling (new Grafterizer, to become part of DataGraft) ~ 15 mins<br>3.      New features in DataGraft ~ 15-30 mins<br>MAX 45 min<br>(Titi,&nbsp;Nikolay and Bjørn Marius from SINTEF)",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title2": "Harvesters",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Several CKAN-related repositories has been developed in the OTD project.<br>-CKAN harvester for harvesting datasets from data.norge.no and geonorge.no.<br>-Ontology functionality support for CKAN.<br>MAX 45 min<br>(Shanshan from SINTEF shares experiences via skype)",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "website-theme",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title3": "Lage eget design på CKAN",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Urbalurba er i ferd med å lage eget design på CKAN. Inspirert av Singapore , data.world og dataplatform. Viser og forklarer hvordan endre templates.<br>MAX 30 min<br>(Terje fra Urbalurba)",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "users",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title4": "Diskusjon rundt bordet",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Hva planlegger hver enkelt å gjøre videre med CKAN og åpne data.<br>Hvordan kan vi fortsette å dele kunnskap?<br>MAX 30 min<br>(alle)",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef",
+            "showMeta": false
+          },
+          "title": "Hvor: Møterom \"Bakeriet 1\"",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Møterom er inne i kafeteriaen &nbsp;</p><p>For de som er på skype: ID er \"terchris\"</p>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_styles": {
@@ -653,10 +828,10 @@
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff",
-            "showMeta": false
+            "showMeta": true
           },
-          "title": "Aktuelle tema",
-          "meta": "By John Smith posted July 20, 2016"
+          "title": "Andre aktuelle tema",
+          "meta": "Tema under må vi komme tilbake til&nbsp;"
         },
         {
           "_styles": {
