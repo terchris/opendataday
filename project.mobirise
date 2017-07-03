@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "opendataday",
-    "currentPage": "teknosommer.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -70,7 +70,7 @@
             "showButton": false
           },
           "title": "OPEN DATA DAY",
-          "text": "<p>Forskningsparken, Oslo 23 august 2017</p>",
+          "text": "<p>Forskningsparken, Oslo 18 oktober 2017</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
